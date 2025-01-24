@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "92MAdRliz3RKhPgyJnAoiXZFnAnvCtNyKJIeaNQP2jw=",
+  "Source": "backend-notesApp",
+  "BasePath": "_content/backend-notesApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

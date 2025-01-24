@@ -1,0 +1,606 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\data\\dapperbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\data\\dapperbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\data\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\data\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\controllers\\dapperorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\controllers\\dapperorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\migrations\\initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\migrations\\initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\migrations\\backend_notesappcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\migrations\\backend_notesappcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\pages\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\pages\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\pages\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\pages\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\pages\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\pages\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\migrations\\20250122081608_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\migrations\\20250122081608_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\data\\backend_notesappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\data\\backend_notesappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\pages\\user\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\pages\\user\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\pages\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\pages\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\pages\\user\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\pages\\user\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\pages\\user\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\pages\\user\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\pages\\user\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\pages\\user\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\pages\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\pages\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\pages\\user\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\pages\\user\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\data\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\data\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\data\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\data\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\data\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\data\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\data\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\data\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\data\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\data\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\data\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\data\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\data\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\data\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\data\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\data\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|c:\\users\\lenovo pc\\source\\repos\\backend-notesapp\\backend-notesapp\\backend-notesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C8ECF7E-03C1-4DE2-9879-26BD615B27F7}|backend-notesApp\\backend-notesApp.csproj|solutionrelative:backend-notesapp\\backend-notesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\models\\Note.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\models\\Note.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\models\\Note.cs",
+              "RelativeToolTip": "backend-notesApp\\models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T07:58:12.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend-notesApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend-notesApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T07:43:26.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DapperORM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Controllers\\DapperORM.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Controllers\\DapperORM.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Controllers\\DapperORM.cs",
+              "RelativeToolTip": "backend-notesApp\\Controllers\\DapperORM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:12:48.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DapperBase.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\DapperBase.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Data\\DapperBase.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\DapperBase.cs",
+              "RelativeToolTip": "backend-notesApp\\Data\\DapperBase.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:18:21.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\appsettings.json",
+              "RelativeDocumentMoniker": "backend-notesApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\appsettings.json",
+              "RelativeToolTip": "backend-notesApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T08:42:15.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Edit.cshtml",
+              "RelativeDocumentMoniker": "backend-notesApp\\Data\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Edit.cshtml",
+              "RelativeToolTip": "backend-notesApp\\Data\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:08:29.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Program.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Program.cs",
+              "RelativeToolTip": "backend-notesApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:08:28.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Migrations\\InitialCreate.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Migrations\\InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Migrations\\InitialCreate.cs",
+              "RelativeToolTip": "backend-notesApp\\Migrations\\InitialCreate.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:00:06.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "backend-notesApp\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAYwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:47:35.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "backend_notesAppContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Migrations\\backend_notesAppContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Migrations\\backend_notesAppContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Migrations\\backend_notesAppContextModelSnapshot.cs",
+              "RelativeToolTip": "backend-notesApp\\Migrations\\backend_notesAppContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T01:43:35.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "backend-notesApp\\Pages\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Delete.cshtml",
+              "RelativeToolTip": "backend-notesApp\\Pages\\User\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:15:01.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "backend-notesApp\\Pages\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Details.cshtml",
+              "RelativeToolTip": "backend-notesApp\\Pages\\User\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:15:01.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "backend-notesApp\\Pages\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Create.cshtml",
+              "RelativeToolTip": "backend-notesApp\\Pages\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:15:00.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250122081608_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Migrations\\20250122081608_initial.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Migrations\\20250122081608_initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Migrations\\20250122081608_initial.cs",
+              "RelativeToolTip": "backend-notesApp\\Migrations\\20250122081608_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:16:08.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "backend-notesApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:41:05.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Pages\\User\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Index.cshtml.cs",
+              "RelativeToolTip": "backend-notesApp\\Pages\\User\\Index.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:15:01.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "backend-notesApp\\Pages\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Index.cshtml",
+              "RelativeToolTip": "backend-notesApp\\Pages\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:15:01.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Pages\\User\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Delete.cshtml.cs",
+              "RelativeToolTip": "backend-notesApp\\Pages\\User\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:15:01.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Pages\\User\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Details.cshtml.cs",
+              "RelativeToolTip": "backend-notesApp\\Pages\\User\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:15:01.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "backend_notesAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\backend_notesAppContext.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Data\\backend_notesAppContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\backend_notesAppContext.cs",
+              "RelativeToolTip": "backend-notesApp\\Data\\backend_notesAppContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:08:28.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Pages\\User\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Edit.cshtml.cs",
+              "RelativeToolTip": "backend-notesApp\\Pages\\User\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:15:00.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "backend-notesApp\\Pages\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Edit.cshtml",
+              "RelativeToolTip": "backend-notesApp\\Pages\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:15:00.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Pages\\User\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\User\\Create.cshtml.cs",
+              "RelativeToolTip": "backend-notesApp\\Pages\\User\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:15:00.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Create.cshtml",
+              "RelativeDocumentMoniker": "backend-notesApp\\Data\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Create.cshtml",
+              "RelativeToolTip": "backend-notesApp\\Data\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:08:28.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Details.cshtml",
+              "RelativeDocumentMoniker": "backend-notesApp\\Data\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Details.cshtml",
+              "RelativeToolTip": "backend-notesApp\\Data\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:08:29.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Index.cshtml",
+              "RelativeDocumentMoniker": "backend-notesApp\\Data\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Index.cshtml",
+              "RelativeToolTip": "backend-notesApp\\Data\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:08:30.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Delete.cshtml",
+              "RelativeDocumentMoniker": "backend-notesApp\\Data\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Delete.cshtml",
+              "RelativeToolTip": "backend-notesApp\\Data\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:08:29.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "backend-notesApp\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "backend-notesApp\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:08:30.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Data\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Index.cshtml.cs",
+              "RelativeToolTip": "backend-notesApp\\Data\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:08:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Data\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Delete.cshtml.cs",
+              "RelativeToolTip": "backend-notesApp\\Data\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:08:30.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Data\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Details.cshtml.cs",
+              "RelativeToolTip": "backend-notesApp\\Data\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:08:29.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Data\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Edit.cshtml.cs",
+              "RelativeToolTip": "backend-notesApp\\Data\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:08:29.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "backend-notesApp\\Data\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\Data\\Create.cshtml.cs",
+              "RelativeToolTip": "backend-notesApp\\Data\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:08:29.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "backend-notesApp",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\backend-notesApp.csproj",
+              "RelativeDocumentMoniker": "backend-notesApp\\backend-notesApp.csproj",
+              "ToolTip": "C:\\Users\\Lenovo PC\\source\\repos\\backend-notesApp\\backend-notesApp\\backend-notesApp.csproj",
+              "RelativeToolTip": "backend-notesApp\\backend-notesApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T07:53:13.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
